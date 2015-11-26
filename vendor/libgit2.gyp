@@ -20,8 +20,7 @@
         "SRC_UTIL_H_",
       ],
       "dependencies": [
-        "zlib",
-        "http_parser/http_parser.gyp:http_parser"
+        "zlib"
       ],
       "sources": [
         "libgit2/src/annotated_commit.h",
@@ -223,7 +222,6 @@
         "libgit2/src/transports/cred.c",
         "libgit2/src/transports/cred_helpers.c",
         "libgit2/src/transports/git.c",
-        "libgit2/src/transports/http.c",
         "libgit2/src/transports/local.c",
         "libgit2/src/transports/smart.c",
         "libgit2/src/transports/smart.h",
