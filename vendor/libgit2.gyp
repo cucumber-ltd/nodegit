@@ -200,7 +200,6 @@
         "libgit2/src/trace.c",
         "libgit2/src/trace.h",
         "libgit2/src/transaction.c",
-        "libgit2/src/transport.c",
         "libgit2/src/tree-cache.c",
         "libgit2/src/tree-cache.h",
         "libgit2/src/tree.c",
