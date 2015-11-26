@@ -223,7 +223,6 @@
         "libgit2/src/transports/smart.c",
         "libgit2/src/transports/smart.h",
         "libgit2/src/transports/smart_pkt.c",
-        "libgit2/src/transports/smart_protocol.c",
         "libgit2/src/xdiff/xdiff.h",
         "libgit2/src/xdiff/xdiffi.c",
         "libgit2/src/xdiff/xdiffi.h",
