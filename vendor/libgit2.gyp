@@ -219,7 +219,6 @@
         "libgit2/src/transports/auth.h",
         "libgit2/src/transports/cred.c",
         "libgit2/src/transports/cred_helpers.c",
-        "libgit2/src/transports/git.c",
         "libgit2/src/transports/local.c",
         "libgit2/src/transports/smart.c",
         "libgit2/src/transports/smart.h",
