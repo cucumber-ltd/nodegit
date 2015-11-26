@@ -121,8 +121,6 @@
         "libgit2/src/message.h",
         "libgit2/src/mwindow.c",
         "libgit2/src/mwindow.h",
-        "libgit2/src/netops.c",
-        "libgit2/src/netops.h",
         "libgit2/src/notes.c",
         "libgit2/src/notes.h",
         "libgit2/src/object.c",
