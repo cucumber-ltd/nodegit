@@ -52,7 +52,7 @@
     "js-beautify": "^1.5.10",
     "jshint": "^2.8.0",
     "lcov-result-merger": "^1.0.2",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.20",
     "mocha": "^2.3.3",
     "nan": "^2.0.9",
     "node-gyp": "^3.0.3",
